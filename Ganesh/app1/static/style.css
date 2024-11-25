@@ -1,0 +1,26 @@
+.ho{
+    border: 1px solid transparent;
+    
+    height: 30px;
+    margin-left: 1100px;
+    margin-right: 100px;
+    
+    padding-top: 10px;
+    align-items: center;
+    
+}
+
+a {
+    padding-left: 10px;
+    text-decoration: none;
+    background: linear-gradient(to right, rgb(197, 70, 24), red, yellow,black);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    transition: 0.3s;
+}
+
+a:hover{
+    font-size: 20px;
+}
